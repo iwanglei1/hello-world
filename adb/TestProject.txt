@@ -1,0 +1,8 @@
+0.Sqlmap burpsuit Fiddler Metasploit nmap NC awvs常见软件的使用ok
+1.常见web高危漏洞   :sql注入 XSS CSRF Webshell 文件上传 文件包含  
+2.熟悉 OWASP TOP10 漏洞原理 利用方式 修复方案ok
+3.常见数据库结构和操作ok
+4.各类框架和操作系统的弱点及中间件漏洞等
+5.熟悉一种以上的编程语言：java python等
+6.搭建各类渗透测试的测试环境以及独立完成渗透测试ok
+7.熟练阅读英语
